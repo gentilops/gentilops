@@ -34,6 +34,5 @@ Databases:
 
 Operating Systems:
 <p align="left">
-  <img src="https://pngimg.com/d/windows_logos_PNG9.png" alt="Windows" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </p>
